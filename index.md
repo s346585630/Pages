@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog 
 ---
+Things to do
+- [ ] eat
+- [ ] functions
+- [ ] calculus
 
